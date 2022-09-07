@@ -1,0 +1,17 @@
+1. From Application Tab, Press Clear button to clear all LocalStorage Items. As simple as that.
+https://prnt.sc/65W5eQ-cczXa
+
+2.Set simple local storage key and value from console.
+https://prnt.sc/bVxAvybcZCOO
+
+3.Set local storage key and value from js code. 
+check "LocalStorage" folder.
+
+4.Get LocalStorage "age" value and display it as Alert.
+check "LocalStorage" folder.
+
+5.Remove "name" and "age" from LocalStorage.
+check "LocalStorage" folder.
+
+6. Set object on LocalStorage.
+check "LocalStorage" folder.
